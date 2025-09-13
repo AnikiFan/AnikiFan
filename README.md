@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Aniki Fan  
+# Hi there 👋, I'm AnikiFan  
 
 🎓 **Education**  
 - B.Sc. in Data Science and Big Data Technology, Tongji University, 2022–Present
